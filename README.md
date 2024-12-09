@@ -4,7 +4,7 @@
 - 📫 How to reach me : ethandsa25@gmail.com
 - 😄 Pronouns: he/him
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=nord)
+![Leetcode Stats](https://leetcard.jacoblin.cool/ethandsa25?theme=nord)
 
 <!---
 EnigmaticLeo25/EnigmaticLeo25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
